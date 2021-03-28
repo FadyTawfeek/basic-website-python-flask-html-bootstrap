@@ -1,0 +1,6 @@
+{% code %} this is called a code block and it is used in html to write if and for loops for example
+{{ value }} here we can add a value or a variable inside the html code
+<span> </span> this is used in html like username is not valid for example
+{% block content %}
+{% endblock content %}
+{% extends "layout.html"%}
